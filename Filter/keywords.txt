@@ -6,19 +6,19 @@
 # Datatypes,classes (KEYWORD1)
 ##############################################
 
-Filter  KEYWORD1
-iirFilter  KEYWORD1
-firFilter  KEYWORD1
-newFilter  KEYWORD1
+Filter	KEYWORD1
+iirFilter	KEYWORD1
+firFilter	KEYWORD1
+newFilter	KEYWORD1
 
 ##############################################
 # Methods and Functions (KEYWORD2)
 ##############################################
 
-begin KEYWORD2
-setFilter KEYWORD2
-setOrder  KEYWORD2
-run KEYWORD2
+begin	KEYWORD2
+setFilter	KEYWORD2
+setOrder	KEYWORD2
+run	KEYWORD2
 
 ##############################################
 # Constants (LITERAL1)
